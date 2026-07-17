@@ -125,7 +125,14 @@ if (writeCatalog) {
   for (const channel of catalog.channels) {
     const result = byId.get(channel.id)
     if (!result) continue
-    const availability = result.ok ? 'online' : 'offline'
+    const failures = result.ok ? 0 : Math.min((channel.healthFailures || 0) + 1, 2)
+    // A single network hiccup should not hide a working channel. The first failed
+    // check is retained as diagnostic state; the second marks it unavailable.
+    const availability = result.ok ? 'online' : failures >= 2 ? 'offline' : channel.availability
+    if (channel.healthFailures !== failures) {
+      channel.healthFailures = failures
+      changed = true
+    }
     if (channel.availability !== availability) {
       channel.availability = availability
       channel.availabilityCheckedAt = checkedAt
