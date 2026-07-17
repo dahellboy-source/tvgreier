@@ -5,7 +5,8 @@ import { COUNTRIES } from '../src/data/countries.js'
 const payload = JSON.parse(await readFile(new URL('../src/data/channels.json', import.meta.url), 'utf8'))
 const ids = new Set()
 const allowedFormats = new Set(['hls', 'external'])
-const allowedCategories = new Set(['news', 'general', 'local', 'music', 'sports', 'kids', 'culture', 'parliament'])
+const allowedCategories = new Set(['news', 'general', 'local', 'music', 'sports', 'kids', 'culture', 'parliament', 'movies', 'series', 'documentary', 'entertainment', 'business', 'education', 'lifestyle', 'religious', 'shop'])
+const allowedAvailability = new Set(['online', 'offline'])
 const countryCodes = new Set(COUNTRIES.map((country) => country.code))
 
 assert.ok(Array.isArray(payload.channels), 'channels must be an array')
@@ -24,6 +25,8 @@ for (const channel of payload.channels) {
   assert.equal(channel.name.includes('Ⓖ'), false, `geoblocked marker leaked into ${channel.name}`)
   assert.equal(allowedFormats.has(channel.format), true, `unsupported format: ${channel.format}`)
   assert.equal(allowedCategories.has(channel.category), true, `unsupported category: ${channel.category}`)
+  assert.equal(!channel.officialUrl || (channel.officialUrl.startsWith('https://') && !channel.officialUrl.includes('?')), true, `invalid official URL: ${channel.id}`)
+  assert.equal(!channel.availability || allowedAvailability.has(channel.availability), true, `invalid availability: ${channel.id}`)
 }
 
 console.log(`Validated ${payload.channels.length} secure, non-geoblocked European channels.`)
