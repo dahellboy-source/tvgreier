@@ -13,13 +13,22 @@ const counts = channels.reduce((result, channel) => {
 const categories = [
   ['all', 'Alle'],
   ['news', 'Nyheter'],
-  ['general', 'Blandet'],
-  ['local', 'Lokalt'],
-  ['music', 'Musikk'],
+  ['movies', 'Filmer'],
+  ['series', 'Serier'],
+  ['documentary', 'Dokumentarer'],
+  ['entertainment', 'Underholdning'],
   ['sports', 'Sport'],
   ['kids', 'Barn'],
+  ['music', 'Musikk'],
   ['culture', 'Kultur'],
+  ['business', 'Økonomi'],
+  ['education', 'Læring'],
   ['parliament', 'Samfunn'],
+  ['local', 'Lokalt'],
+  ['religious', 'Religion'],
+  ['lifestyle', 'Livsstil'],
+  ['shop', 'Shopping'],
+  ['general', 'Generelt'],
 ]
 
 const state = {
@@ -276,8 +285,11 @@ function renderCountry(code, favoritesOnly = false) {
         </label>
         <label class="sort-field"><span>Sorter</span><select id="channel-sort"><option value="name">A–Å</option><option value="category">Kategori</option><option value="checked">Sjekket hos meg</option></select></label>
       </div>
-      <div class="category-row" id="category-row">
+      <div class="category-picker" aria-label="Velg kategori">
+        <span class="category-picker-label">Velg kategori</span>
+        <div class="category-row" id="category-row">
         ${categories.map(([value, label]) => `<button data-category="${value}" class="filter-pill ${value === 'all' ? 'active' : ''}">${label}</button>`).join('')}
+        </div>
       </div>
       <div class="catalog-summary" id="catalog-summary"></div>
       <div class="channel-grid" id="channel-grid"></div>
@@ -361,8 +373,9 @@ function channelCard(channel) {
   const url = safeUrl(channel.url)
   const initials = channel.name.split(/\s+/).slice(0, 2).map((word) => word[0]).join('').toUpperCase()
   const canPlay = channel.format === 'hls'
+  const unavailable = channel.availability === 'offline'
   return `
-    <article class="channel-card" data-channel-card="${escapeHtml(channel.id)}">
+    <article class="channel-card ${unavailable ? 'unavailable' : ''}" data-channel-card="${escapeHtml(channel.id)}">
       <div class="channel-logo-wrap">
         <span class="logo-fallback">${escapeHtml(initials)}</span>
         ${channel.logo ? `<img src="${escapeHtml(safeUrl(channel.logo))}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ''}
@@ -371,11 +384,15 @@ function channelCard(channel) {
       <div class="channel-body">
         <div class="channel-badges">
           <span>${escapeHtml(categoryLabel(channel.category))}</span>
-          ${checked ? `<span class="checked-badge">${icon('check')} Sjekket ${escapeHtml(checked.slice(0, 10))}</span>` : '<span class="open-badge">Ingen kjent geoblokk</span>'}
+          ${unavailable
+            ? '<span class="offline-badge">Midlertidig utilgjengelig</span>'
+            : checked ? `<span class="checked-badge">${icon('check')} Sjekket ${escapeHtml(checked.slice(0, 10))}</span>` : '<span class="open-badge">Ingen kjent geoblokk</span>'}
         </div>
         <h3>${escapeHtml(channel.name)}</h3>
         <p>${channel.quality === 'sd' ? 'SD-kvalitet' : 'Automatisk kvalitet'} · ${escapeHtml(channel.platform)}</p>
-        ${canPlay
+        ${unavailable
+          ? '<span class="watch-button disabled" aria-disabled="true">Kontrolleres automatisk</span>'
+          : canPlay
           ? `<button class="watch-button" data-play="${escapeHtml(channel.id)}">${icon('play')} Se direkte</button>`
           : `<a class="watch-button" href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${icon('external')} Åpne kanal</a>`}
       </div>
@@ -404,7 +421,8 @@ async function openPlayer(id) {
   const status = document.querySelector('#player-status')
   const sourceLink = document.querySelector('#source-link')
   document.querySelector('#player-title').textContent = channel.name
-  sourceLink.href = safeUrl(channel.url)
+  sourceLink.href = safeUrl(channel.officialUrl || channel.url)
+  sourceLink.innerHTML = `${channel.officialUrl ? 'Åpne offisiell side' : 'Åpne strømmeadressen'} ${icon('external')}`
   status.innerHTML = `<span>${icon('info')} Tester avspilling fra forbindelsen din …</span>`
   poster.innerHTML = `<div class="player-spinner" aria-hidden="true"></div><p>Kobler til direktesendingen …</p>`
   poster.hidden = false
@@ -501,7 +519,7 @@ function renderAbout() {
     <section class="about-grid">
       <article><span>01</span><h2>Gratis og offentlig</h2><p>Grunnlisten kommer fra det åpne Free-TV/IPTV-prosjektet, som krever at kanalene er gratis tilgjengelige og ikke del av et privat abonnement.</p></article>
       <article><span>02</span><h2>Norge-filter</h2><p>Alle kilder merket med GeoIP-blokkering er utelatt. Vi fjerner også usikre HTTP-lenker som moderne nettlesere normalt vil blokkere.</p></article>
-      <article><span>03</span><h2>Lokal avspillingssjekk</h2><p>Når en kanal faktisk starter, lagres datoen lokalt hos deg. Det gir en sann sjekk fra din forbindelse uten at vi samler inn IP-adresse eller seerhistorikk.</p></article>
+      <article><span>03</span><h2>Automatisk statuskontroll</h2><p>Hver kanal kontrolleres jevnlig. Kilder som ikke svarer markeres grått, og blir tilgjengelige igjen når kontrollen lykkes. Når en kanal faktisk starter, lagres datoen også lokalt hos deg.</p></article>
       <article><span>04</span><h2>Ingen garanti</h2><p>Direktestrømmer kan flyttes, stoppe eller få nye rettighetsgrenser. «Ingen kjent geoblokk» betyr derfor ikke en evig tilgjengelighetsgaranti.</p></article>
     </section>
     <section class="source-panel">
