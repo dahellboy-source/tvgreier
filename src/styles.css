@@ -114,7 +114,9 @@ main { overflow: hidden; }
 .sort-field { height: 48px; min-width: 200px; display: flex; align-items: center; padding: 0 13px; gap: 12px; border: 1px solid var(--line); border-radius: 10px; color: var(--muted); font-size: .75rem; }
 .sort-field select { flex: 1; color: var(--ink); border: 0; outline: 0; background: transparent; }
 .sort-field option { color: var(--dark); }
-.category-row { display: flex; gap: 7px; margin: 20px 0 38px; overflow-x: auto; padding-bottom: 4px; }
+.category-picker { margin: 20px 0 38px; }
+.category-picker-label { display: block; margin-bottom: 9px; color: var(--muted); font-size: .68rem; font-weight: 800; letter-spacing: .11em; text-transform: uppercase; }
+.category-row { display: flex; gap: 7px; overflow-x: auto; padding-bottom: 4px; }
 .filter-pill { flex: none; border: 1px solid var(--line); border-radius: 100px; background: transparent; padding: 8px 13px; font-size: .72rem; cursor: pointer; }
 .filter-pill:hover, .filter-pill.active { background: var(--acid); border-color: var(--acid); color: var(--dark); }
 .catalog-summary { display: flex; justify-content: space-between; color: var(--muted); font-size: .78rem; margin-bottom: 14px; }
@@ -122,6 +124,8 @@ main { overflow: hidden; }
 .channel-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 13px; }
 .channel-card { min-width: 0; overflow: hidden; border-radius: 14px; background: var(--dark-2); border: 1px solid transparent; transition: .2s ease; }
 .channel-card:hover { transform: translateY(-3px); border-color: var(--line); box-shadow: 0 18px 35px rgba(0,0,0,.2); }
+.channel-card.unavailable { filter: grayscale(1); opacity: .58; }
+.channel-card.unavailable:hover { transform: none; border-color: transparent; box-shadow: none; }
 .channel-logo-wrap { height: 155px; position: relative; display: grid; place-items: center; background: #f0f3ec; overflow: hidden; }
 .channel-logo-wrap::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to bottom, transparent 60%, rgba(7,27,31,.08)); pointer-events: none; }
 .channel-logo-wrap img { max-width: 67%; max-height: 64%; object-fit: contain; position: relative; z-index: 1; }
@@ -135,10 +139,12 @@ main { overflow: hidden; }
 .channel-badges .checked-badge { color: var(--mint); background: rgba(108,242,194,.08); }
 .channel-badges .checked-badge .icon { width: 10px; }
 .channel-badges .open-badge { color: #b9ce72; }
+.channel-badges .offline-badge { color: #ffab9e; background: rgba(255,123,104,.12); }
 .channel-body h3 { font-size: 1rem; margin: 12px 0 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .channel-body > p { color: var(--muted); font-size: .68rem; margin: 0 0 16px; }
 .watch-button { width: 100%; min-height: 39px; display: inline-flex; align-items: center; justify-content: center; gap: 7px; border: 1px solid var(--line); border-radius: 8px; background: transparent; color: var(--ink); font-size: .75rem; font-weight: 800; cursor: pointer; }
 .watch-button:hover { background: var(--acid); color: var(--dark); border-color: var(--acid); }
+.watch-button.disabled { color: var(--muted); border-style: dashed; cursor: not-allowed; }
 .load-more-wrap { display: flex; justify-content: center; margin-top: 35px; }
 .load-more-wrap .secondary-button span { color: var(--muted); }
 
