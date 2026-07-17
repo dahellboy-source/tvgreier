@@ -28,7 +28,7 @@ npm run build
 
 ## Datakilde og avgrensning
 
-Katalogen er et øyeblikksbilde av [Free-TV/IPTV](https://github.com/Free-TV/IPTV), et åpent prosjekt som bare tar inn gratis tilgjengelige kanaler. Importen inkluderer europeiske land, fjerner alle oppføringer merket `Ⓖ` (GeoIP) og beholder bare HTTPS-kilder.
+Katalogen er et øyeblikksbilde av [Free-TV/IPTV](https://github.com/Free-TV/IPTV), et åpent prosjekt som bare tar inn gratis tilgjengelige kanaler. Importen inkluderer europeiske land, fjerner alle oppføringer merket `Ⓖ` (GeoIP), beholder bare HTTPS-kilder og utelater adresser med URL-parametere. Det siste holder ikke-stabile eller potensielt sensitive tilgangslenker ute av en offentlig katalog.
 
 Det er likevel umulig å garantere at en ekstern direktestrøm alltid virker. Kanaler endrer adresser og rettighetsgrenser. Derfor skiller grensesnittet mellom «ingen kjent geoblokk» og en vellykket sjekk fra brukerens egen forbindelse.
 
