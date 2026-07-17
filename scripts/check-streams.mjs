@@ -2,6 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 
 const input = new URL('../src/data/channels.json', import.meta.url)
 const output = process.argv[2] || '/tmp/tvgreier-stream-health.json'
+const writeCatalog = process.argv.includes('--write')
 const concurrency = Number.parseInt(process.env.TVGREIER_CHECK_CONCURRENCY || '6', 10)
 const timeoutMs = Number.parseInt(process.env.TVGREIER_CHECK_TIMEOUT || '12000', 10)
 const catalog = JSON.parse(await readFile(input, 'utf8'))
@@ -115,4 +116,24 @@ const summary = {
   results,
 }
 await writeFile(output, `${JSON.stringify(summary, null, 2)}\n`)
+
+if (writeCatalog) {
+  const byId = new Map(results.map((result) => [result.id, result]))
+  let changed = false
+  const checkedAt = summary.checkedAt
+
+  for (const channel of catalog.channels) {
+    const result = byId.get(channel.id)
+    if (!result) continue
+    const availability = result.ok ? 'online' : 'offline'
+    if (channel.availability !== availability) {
+      channel.availability = availability
+      channel.availabilityCheckedAt = checkedAt
+      changed = true
+    }
+  }
+
+  if (changed) await writeFile(input, `${JSON.stringify(catalog, null, 2)}\n`)
+  console.log(JSON.stringify({ catalogUpdated: changed }))
+}
 console.log(JSON.stringify({ output, total: summary.total, healthy: summary.healthy, unhealthy: summary.unhealthy }))
