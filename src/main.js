@@ -134,7 +134,7 @@ function playerDialog() {
       <div class="player-status" id="player-status" role="status"></div>
       <div class="player-actions">
         <p>Sendingen kommer direkte fra den offentlige kilden og kan endres uten varsel.</p>
-        <a id="source-link" class="text-link" target="_blank" rel="noreferrer">Åpne kilden ${icon('external')}</a>
+        <a id="source-link" class="text-link" target="_blank" rel="noreferrer">Åpne strømmeadressen ${icon('external')}</a>
       </div>
     </dialog>
   `
@@ -436,6 +436,10 @@ async function openPlayer(id) {
       markError()
       return
     }
+    let networkRetries = 0
+    let mediaRetries = 0
+    const maxNetworkRetries = 2
+    const maxMediaRetries = 1
     state.hls = new Hls({ enableWorker: true, lowLatencyMode: true })
     state.hls.loadSource(channel.url)
     state.hls.attachMedia(video)
@@ -444,7 +448,20 @@ async function openPlayer(id) {
       video.play().catch(() => {})
     })
     state.hls.on(Hls.Events.ERROR, (_event, data) => {
-      if (data.fatal) markError()
+      if (!data.fatal) return
+      if (data.type === Hls.ErrorTypes.NETWORK_ERROR && networkRetries < maxNetworkRetries) {
+        networkRetries += 1
+        status.innerHTML = `<span>${icon('info')} Nettverket svarte ikke. Prøver igjen (${networkRetries}/${maxNetworkRetries}) …</span>`
+        setTimeout(() => state.hls?.startLoad(), networkRetries * 1200)
+        return
+      }
+      if (data.type === Hls.ErrorTypes.MEDIA_ERROR && mediaRetries < maxMediaRetries) {
+        mediaRetries += 1
+        status.innerHTML = `<span>${icon('info')} Avspillingen trenger en ny oppstart …</span>`
+        state.hls.recoverMediaError()
+        return
+      }
+      markError()
     })
   }
 }
