@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T07:14:31.305Z"
     },
@@ -3378,7 +3378,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4757,7 +4757,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T17:42:57.379Z"
     },
@@ -6104,7 +6104,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T17:42:57.379Z"
     },
@@ -6393,7 +6393,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T17:42:57.379Z"
     },
@@ -6969,7 +6969,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://play.rtl.it/live/18/radio-zeta-radiovisione/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8565,7 +8565,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleregionecolor.com/teleregione-live-stream/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T17:42:57.379Z"
     },
@@ -8794,7 +8794,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T17:42:57.379Z"
     },
@@ -9450,7 +9450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://jurmala.tv/tiesraide/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T14:44:30.071Z"
     },
@@ -11137,9 +11137,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trt1.com.tr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-19T01:04:22.968Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-19T18:43:10.243Z"
     },
     {
       "id": "TRTArabi.tr",
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
