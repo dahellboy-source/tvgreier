@@ -1516,7 +1516,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T14:44:30.071Z"
     },
@@ -5898,7 +5898,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T13:05:07.807Z"
     },
@@ -6625,7 +6625,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.primafree.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T09:23:04.709Z"
     },
@@ -7302,7 +7302,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8478,7 +8478,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T04:30:24.203Z"
     },
@@ -8723,7 +8723,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleuniverso.it/diretta-streaming/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T04:33:26.496Z"
     },
@@ -9450,7 +9450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://jurmala.tv/tiesraide/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T14:44:30.071Z"
     },
@@ -11137,7 +11137,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trt1.com.tr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T01:07:58.453Z"
     },
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
