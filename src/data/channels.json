@@ -1516,7 +1516,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T14:44:30.071Z"
     },
@@ -5784,7 +5784,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.goldtv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T11:33:04.645Z"
     },
@@ -5898,9 +5898,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-21T13:05:07.807Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T18:05:45.764Z"
     },
     {
       "id": "Italia-8-Prestige.IT",
@@ -6625,7 +6625,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.primafree.net/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T09:23:04.709Z"
     },
@@ -8478,9 +8478,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-21T04:30:24.203Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T18:05:45.764Z"
     },
     {
       "id": "Telejato.IT",
@@ -11137,9 +11137,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trt1.com.tr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-21T01:07:58.453Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T18:05:45.764Z"
     },
     {
       "id": "TRTArabi.tr",
