@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T04:30:24.203Z"
     },
@@ -1516,9 +1516,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-19T14:44:30.071Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "BomCine.es",
@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T04:30:24.203Z"
     },
@@ -3364,9 +3364,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "lychnostv.gr",
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-21T22:05:15.052Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -4757,9 +4757,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-21T22:05:15.052Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "Alpauno.IT",
@@ -5034,9 +5034,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://calabriauno.news/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-21T19:49:29.340Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "CameradeiDeputati.it",
@@ -6104,9 +6104,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-21T22:05:15.052Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "Lira-Tv.IT",
@@ -6393,9 +6393,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-21T22:05:15.052Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "Ofanto-Tv.IT",
@@ -7649,9 +7649,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.grupposciscione.it/t9-2/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-21T22:05:15.052Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "Tcf-Tv.IT",
@@ -8565,9 +8565,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleregionecolor.com/teleregione-live-stream/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-21T22:05:15.052Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "TeleRegione-Color.IT",
@@ -8881,9 +8881,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-07-21T23:11:08.831Z"
     },
     {
       "id": "Motor.Trend.it",
