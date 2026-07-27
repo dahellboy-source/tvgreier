@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-25T16:36:45.779Z"
     },
@@ -1151,7 +1151,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3467,7 +3467,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.onetv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -6393,9 +6393,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-07-26T17:29:04.191Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-07-27T01:23:23.764Z"
     },
     {
       "id": "Ofanto-Tv.IT",
