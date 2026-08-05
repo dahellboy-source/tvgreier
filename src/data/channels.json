@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-04T21:41:53.979Z"
     },
@@ -2987,7 +2987,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.alphatv.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3206,7 +3206,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3292,7 +3292,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-01T12:08:48.509Z"
     },
@@ -3539,7 +3539,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.star.gr/tv/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3567,7 +3567,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4757,9 +4757,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T23:47:45.529Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Alpauno.IT",
@@ -4887,7 +4887,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-04T12:51:44.887Z"
     },
@@ -5063,9 +5063,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T10:50:25.937Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Canale-2.IT",
@@ -5884,7 +5884,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.italia2tv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -5987,7 +5987,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lanuova.net/la-nuova-tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -6001,7 +6001,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-23T14:10:39.564Z"
     },
@@ -6015,7 +6015,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -6089,7 +6089,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-02T15:17:25.390Z"
     },
@@ -6104,9 +6104,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T23:47:45.529Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Lira-Tv.IT",
@@ -6393,9 +6393,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T23:47:45.529Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Ofanto-Tv.IT",
@@ -6596,9 +6596,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T23:47:45.529Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Prima-Tv-Sicilia.IT",
@@ -7649,9 +7649,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.grupposciscione.it/t9-2/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-05T04:31:18.867Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Tcf-Tv.IT",
@@ -7955,7 +7955,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telemistretta.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8054,7 +8054,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8110,7 +8110,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8124,7 +8124,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8138,7 +8138,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8152,7 +8152,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8222,7 +8222,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8306,7 +8306,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-22T09:05:15.443Z"
     },
@@ -8363,7 +8363,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-lombardia/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T07:22:24.994Z"
     },
@@ -8378,7 +8378,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-piemonte/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8393,7 +8393,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-valle-daosta/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8407,7 +8407,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8421,7 +8421,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T07:15:48.595Z"
     },
@@ -8450,7 +8450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://telegenova.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8507,7 +8507,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8521,7 +8521,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8535,7 +8535,7 @@
       "format": "external",
       "platform": "Twitch",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8550,7 +8550,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trnews.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-25T16:36:45.779Z"
     },
@@ -8636,7 +8636,7 @@
       "format": "external",
       "platform": "Twitch",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8650,7 +8650,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8665,7 +8665,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://teleromagna.it/it/live/teleromagna",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8679,7 +8679,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8723,7 +8723,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleuniverso.it/diretta-streaming/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T04:33:26.496Z"
     },
@@ -8737,7 +8737,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8996,9 +8996,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T17:08:32.198Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Tvr-Xenon.IT",
@@ -10434,9 +10434,9 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.karusel-tv.ru/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T17:08:32.198Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "Katun24.ru",
@@ -10539,9 +10539,9 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://muz-tv.ru/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-04T17:08:32.198Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-05T10:04:15.488Z"
     },
     {
       "id": "NebesaTV7.ru",
