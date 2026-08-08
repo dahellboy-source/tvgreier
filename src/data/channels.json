@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T21:31:37.230Z"
     },
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T22:39:20.751Z"
     },
@@ -4510,7 +4510,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T21:31:37.230Z"
     },
@@ -7649,9 +7649,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.grupposciscione.it/t9-2/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-08T20:54:05.333Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-08T23:43:12.066Z"
     },
     {
       "id": "Tcf-Tv.IT",
@@ -8794,7 +8794,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T21:31:37.230Z"
     },
