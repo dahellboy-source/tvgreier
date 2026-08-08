@@ -494,9 +494,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-08T06:07:52.864Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-08T07:13:22.983Z"
     },
     {
       "id": "SevdahTV.ba",
@@ -4510,9 +4510,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-08T06:07:52.864Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-08T07:13:22.983Z"
     },
     {
       "id": "fm104.ie",
@@ -4524,7 +4524,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T01:41:26.848Z"
     },
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-07T22:37:27.780Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-08T07:13:22.983Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -8794,9 +8794,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-08T06:07:52.864Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-08T07:13:22.983Z"
     },
     {
       "id": "TRC-Santeramo.IT",
@@ -11356,7 +11356,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://tv.suspilne.media/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -11385,7 +11385,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://suspilne.media/culture/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -11459,7 +11459,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://tv.kyiv.media/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -11474,7 +11474,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://central.suspilne.media/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -11489,7 +11489,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://crimea.suspilne.media/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
