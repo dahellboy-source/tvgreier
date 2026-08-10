@@ -2854,7 +2854,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://1tv.ge/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -2869,7 +2869,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://rustavi2.ge/en/contact",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -2884,7 +2884,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://formula.ge/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -2899,7 +2899,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.imedi.ge/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T20:28:11.254Z"
     },
@@ -3220,7 +3220,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3581,7 +3581,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4510,7 +4510,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-10T03:32:43.886Z"
     },
@@ -4887,7 +4887,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-07T15:41:07.661Z"
     },
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-09T22:48:03.217Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-10T08:19:30.726Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -9450,7 +9450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://jurmala.tv/tiesraide/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T13:51:03.623Z"
     },
