@@ -333,7 +333,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.r-9.at/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-04T02:34:31.719Z"
     },
@@ -347,7 +347,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -494,7 +494,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-12T17:18:02.223Z"
     },
@@ -3176,7 +3176,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-14T07:02:17.961Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-14T09:42:47.795Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -4683,7 +4683,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.111tv.it/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-22T09:05:15.443Z"
     },
@@ -4757,7 +4757,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T01:58:49.203Z"
     },
@@ -5450,9 +5450,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-14T09:42:47.795Z"
     },
     {
       "id": "Entella-Tv.IT",
@@ -5784,7 +5784,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.goldtv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T01:58:49.203Z"
     },
@@ -6104,7 +6104,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T01:58:49.203Z"
     },
@@ -6335,7 +6335,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T07:02:17.961Z"
     },
@@ -6393,7 +6393,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-13T21:22:36.060Z"
     },
@@ -7649,7 +7649,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.grupposciscione.it/t9-2/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-13T21:22:36.060Z"
     },
@@ -8478,9 +8478,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-14T08:37:19.954Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-14T09:42:47.795Z"
     },
     {
       "id": "Telejato.IT",
@@ -8794,7 +8794,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-13T21:22:36.060Z"
     },
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-13T16:40:46.745Z"
     },
