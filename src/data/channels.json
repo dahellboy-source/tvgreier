@@ -773,9 +773,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-15T09:57:20.768Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-15T11:06:04.187Z"
     },
     {
       "id": "Belarus5.by",
@@ -1531,9 +1531,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.bomcine.com/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-14T14:56:00.502Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-15T11:06:04.187Z"
     },
     {
       "id": "BonDiaTV.es",
@@ -2124,9 +2124,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://squirreltv.es/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-14T14:56:00.502Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-15T11:06:04.187Z"
     },
     {
       "id": "tdp.es",
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T10:50:40.738Z"
     },
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T16:54:16.800Z"
     },
