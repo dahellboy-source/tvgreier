@@ -333,7 +333,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.r-9.at/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-04T02:34:31.719Z"
     },
@@ -347,7 +347,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T11:06:04.187Z"
     },
@@ -1531,9 +1531,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.bomcine.com/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-15T16:39:15.203Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-16T01:19:35.110Z"
     },
     {
       "id": "BonDiaTV.es",
@@ -2124,9 +2124,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://squirreltv.es/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-15T16:39:15.203Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-16T01:19:35.110Z"
     },
     {
       "id": "tdp.es",
@@ -4757,9 +4757,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-15T23:56:00.574Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-16T01:19:35.110Z"
     },
     {
       "id": "Alpauno.IT",
@@ -5784,9 +5784,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.goldtv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-15T23:56:00.574Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-16T01:19:35.110Z"
     },
     {
       "id": "GRP-Televisione.IT",
@@ -5898,7 +5898,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T20:23:35.301Z"
     },
@@ -6104,7 +6104,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T19:54:35.101Z"
     },
@@ -6393,7 +6393,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T19:35:13.779Z"
     },
@@ -8478,9 +8478,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-15T23:56:00.574Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-16T01:19:35.110Z"
     },
     {
       "id": "Telejato.IT",
