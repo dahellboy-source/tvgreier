@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-18T03:32:18.993Z"
     },
@@ -1531,7 +1531,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.bomcine.com/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-18T00:04:11.773Z"
     },
@@ -2124,7 +2124,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://squirreltv.es/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-18T00:04:11.773Z"
     },
@@ -3176,7 +3176,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T09:36:38.387Z"
     },
@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T23:24:30.111Z"
     },
@@ -3378,9 +3378,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-09T19:08:47.273Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-18T04:58:20.840Z"
     },
     {
       "id": "MakTV.gr",
@@ -3596,7 +3596,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://syrostv1.gr/live-tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8363,9 +8363,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-lombardia/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-18T04:20:47.433Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-18T04:58:20.840Z"
     },
     {
       "id": "Telecity-Piemonte.IT",
@@ -8378,9 +8378,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-piemonte/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-18T04:20:47.433Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-18T04:58:20.840Z"
     },
     {
       "id": "Telecity-Valle-D-Aosta.IT",
@@ -8393,9 +8393,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-valle-daosta/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-18T04:20:47.433Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-18T04:58:20.840Z"
     },
     {
       "id": "TelecolorLombardia.it",
