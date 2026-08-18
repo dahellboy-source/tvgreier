@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-18T17:28:46.155Z"
     },
@@ -3452,9 +3452,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-18T19:46:14.469Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-18T23:49:21.137Z"
     },
     {
       "id": "OneChannel.gr",
@@ -4757,9 +4757,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-18T22:25:29.899Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-18T23:49:21.137Z"
     },
     {
       "id": "Alpauno.IT",
