@@ -3206,7 +3206,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-11T13:07:15.061Z"
     },
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-20T21:17:12.739Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-20T23:14:17.542Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-20T07:04:11.419Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-20T23:14:17.542Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -8478,9 +8478,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-20T21:49:12.906Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-20T23:14:17.542Z"
     },
     {
       "id": "Telejato.IT",
@@ -8565,9 +8565,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleregionecolor.com/teleregione-live-stream/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-20T22:13:18.994Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-20T23:14:17.542Z"
     },
     {
       "id": "TeleRegione-Color.IT",
@@ -8794,9 +8794,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-20T22:50:52.688Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-20T23:14:17.542Z"
     },
     {
       "id": "TRC-Santeramo.IT",
@@ -9450,7 +9450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://jurmala.tv/tiesraide/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T13:51:03.623Z"
     },
