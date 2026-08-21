@@ -494,7 +494,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-19T07:13:29.865Z"
     },
@@ -3220,7 +3220,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T17:54:41.165Z"
     },
@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
     },
@@ -3452,9 +3452,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-21T01:56:34.723Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "OneChannel.gr",
@@ -3467,9 +3467,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.onetv.gr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-18T05:35:50.599Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "OpenTV.gr",
@@ -3581,7 +3581,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-19T09:55:02.294Z"
     },
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-21T03:58:58.261Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -4757,9 +4757,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "Alpauno.IT",
@@ -5784,9 +5784,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.goldtv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "GRP-Televisione.IT",
@@ -5898,9 +5898,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "Italia-8-Prestige.IT",
@@ -6104,9 +6104,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "Lira-Tv.IT",
@@ -6393,9 +6393,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "Ofanto-Tv.IT",
@@ -6969,7 +6969,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://play.rtl.it/live/18/radio-zeta-radiovisione/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-20T12:01:59.353Z"
     },
@@ -7649,9 +7649,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.grupposciscione.it/t9-2/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "Tcf-Tv.IT",
@@ -8478,9 +8478,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "Telejato.IT",
@@ -8565,9 +8565,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleregionecolor.com/teleregione-live-stream/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "TeleRegione-Color.IT",
@@ -8794,9 +8794,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-08-21T04:48:08.300Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "TRC-Santeramo.IT",
@@ -9450,7 +9450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://jurmala.tv/tiesraide/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-08T13:51:03.623Z"
     },
@@ -10258,9 +10258,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-21T05:19:47.370Z"
     },
     {
       "id": "360News.ru",
