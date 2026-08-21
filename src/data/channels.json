@@ -3482,7 +3482,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.tvopen.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-15T06:00:49.873Z"
     },
@@ -9949,7 +9949,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://4fun.tv/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-10T12:00:09.144Z"
     },
@@ -10258,9 +10258,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-21T19:04:02.115Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-21T19:55:50.568Z"
     },
     {
       "id": "360News.ru",
