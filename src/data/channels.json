@@ -3220,7 +3220,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T17:54:41.165Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T08:13:42.820Z"
     },
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:52:11.743Z"
     },
@@ -4683,7 +4683,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.111tv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-22T17:52:45.563Z"
     },
@@ -4757,7 +4757,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://almamediaitalia.it/televisione/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -5784,9 +5784,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.goldtv.it/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-23T17:06:47.359Z"
     },
     {
       "id": "GRP-Televisione.IT",
@@ -5898,9 +5898,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-08-23T17:06:47.359Z"
     },
     {
       "id": "Italia-8-Prestige.IT",
@@ -6104,7 +6104,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.laziotv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -6393,7 +6393,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -7649,7 +7649,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.grupposciscione.it/t9-2/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -8478,7 +8478,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -8565,7 +8565,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleregionecolor.com/teleregione-live-stream/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -8794,7 +8794,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T15:29:19.063Z"
     },
@@ -10434,7 +10434,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.karusel-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-18T21:56:47.692Z"
     },
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-22T19:12:09.546Z"
     },
