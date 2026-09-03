@@ -494,7 +494,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-22T07:43:29.671Z"
     },
@@ -744,7 +744,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -759,7 +759,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://belarus24.by/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-24T09:24:16.098Z"
     },
@@ -787,7 +787,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -2460,7 +2460,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -2943,7 +2943,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3176,7 +3176,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-22T04:07:44.892Z"
     },
@@ -3206,7 +3206,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-21T15:41:57.011Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-02T10:56:46.783Z"
     },
@@ -3581,7 +3581,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-31T10:49:51.065Z"
     },
@@ -3919,7 +3919,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T20:28:11.254Z"
     },
@@ -4047,7 +4047,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-30T11:21:49.268Z"
     },
@@ -4120,7 +4120,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4149,7 +4149,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://kanizsatv.hu/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4222,7 +4222,7 @@
       "platform": "YouTube",
       "quality": "auto",
       "officialUrl": "https://mediaklikk.hu/m1/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4281,7 +4281,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-31T19:58:53.376Z"
     },
@@ -4295,7 +4295,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4352,7 +4352,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -4510,7 +4510,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-21T10:54:28.752Z"
     },
@@ -4524,7 +4524,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-21T10:54:28.752Z"
     },
@@ -4843,7 +4843,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lasiciliaweb.it/live-antennasicilia/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T07:15:48.595Z"
     },
@@ -5192,7 +5192,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -5264,7 +5264,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T16:15:48.023Z"
     },
@@ -5522,7 +5522,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://esperia.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -5711,7 +5711,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://giornaleradio.fm/canali-tv/giornaleradio-tv",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-11T15:31:06.848Z"
     },
@@ -5740,7 +5740,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-11T11:55:42.686Z"
     },
@@ -5769,7 +5769,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.go-tv.org/it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-21T12:48:23.159Z"
     },
@@ -5942,7 +5942,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://iuniortv.blogspot.com/2021/06/iunior-tv-e-una-televisione-tematica.html",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -5987,7 +5987,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lanuova.net/la-nuova-tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-07T09:46:45.229Z"
     },
@@ -6001,7 +6001,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-23T14:10:39.564Z"
     },
@@ -6075,7 +6075,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lacplay.it/dirette/lac-news24/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -6089,7 +6089,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-02T15:17:25.390Z"
     },
@@ -7503,7 +7503,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.radiosienatv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8054,7 +8054,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8110,7 +8110,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8124,7 +8124,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8138,7 +8138,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8152,7 +8152,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8306,7 +8306,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-22T09:05:15.443Z"
     },
@@ -8378,7 +8378,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-piemonte/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-18T04:58:20.840Z"
     },
@@ -8507,7 +8507,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8636,7 +8636,7 @@
       "format": "external",
       "platform": "Twitch",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8665,7 +8665,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://teleromagna.it/it/live/teleromagna",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T07:47:11.707Z"
     },
@@ -8723,7 +8723,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleuniverso.it/diretta-streaming/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T04:33:26.496Z"
     },
@@ -8808,7 +8808,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T19:39:18.222Z"
     },
@@ -8852,7 +8852,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10215,7 +10215,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.kurir.rs/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10434,7 +10434,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.karusel-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-01T15:36:40.852Z"
     },
@@ -10449,7 +10449,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://katun24.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10479,7 +10479,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://kuban24.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10524,7 +10524,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.m24.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10539,7 +10539,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://muz-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-02T01:19:31.221Z"
     },
