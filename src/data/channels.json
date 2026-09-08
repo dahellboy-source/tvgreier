@@ -3452,9 +3452,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-08T13:54:10.490Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-08T20:21:25.969Z"
     },
     {
       "id": "OneChannel.gr",
@@ -4281,7 +4281,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-31T19:58:53.376Z"
     },
@@ -4828,7 +4828,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-24T22:49:01.818Z"
     },
@@ -6277,9 +6277,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://motori.tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-08T13:54:10.490Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-08T20:21:25.969Z"
     },
     {
       "id": "News24-City.IT",
@@ -6350,7 +6350,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-08T09:38:37.203Z"
     },
@@ -7723,9 +7723,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleacras.it/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-31T17:45:19.713Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-08T20:21:25.969Z"
     },
     {
       "id": "Tele-Arena.IT",
