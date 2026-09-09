@@ -494,7 +494,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-22T07:43:29.671Z"
     },
@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-09T10:01:24.390Z"
     },
@@ -3364,7 +3364,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-08T13:54:10.490Z"
     },
@@ -5726,9 +5726,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://diretta.giovannipaolotv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-08T17:48:22.714Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
     },
     {
       "id": "Globo-Tv.IT",
@@ -5987,9 +5987,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lanuova.net/la-nuova-tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-07T09:46:45.229Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
     },
     {
       "id": "La-Tenda-Tv.IT",
@@ -6262,9 +6262,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.minformo.tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-19T16:03:29.660Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
     },
     {
       "id": "Motori-Tv.IT",
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-09T10:01:24.390Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -8378,9 +8378,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-piemonte/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-09T10:01:24.390Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
     },
     {
       "id": "Telecity-Valle-D-Aosta.IT",
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-07T22:13:56.388Z"
     },
@@ -11137,9 +11137,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trt1.com.tr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-06T22:24:04.482Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
     },
     {
       "id": "TRTArabi.tr",
@@ -11400,7 +11400,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://rai.ua/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-31T10:49:51.065Z"
     },
