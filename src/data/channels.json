@@ -1472,7 +1472,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -1531,7 +1531,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.bomcine.com/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T00:33:22.541Z"
     },
@@ -2124,7 +2124,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://squirreltv.es/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T00:33:22.541Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-10T14:07:39.579Z"
     },
@@ -5436,9 +5436,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-10T22:34:06.229Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T13:55:36.016Z"
     },
     {
       "id": "Easy-Tv-Canale-190.IT",
@@ -6134,9 +6134,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lombardiatv.com/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-09T14:26:49.934Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T13:55:36.016Z"
     },
     {
       "id": "Lucania-Tv.IT",
@@ -6350,7 +6350,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
@@ -6668,9 +6668,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.promovideotv.com/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-08T17:48:22.714Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T13:55:36.016Z"
     },
     {
       "id": "QVC.it",
@@ -7459,7 +7459,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-31T10:49:51.065Z"
     },
@@ -9264,9 +9264,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-11T05:14:41.441Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T13:55:36.016Z"
     },
     {
       "id": "Yvii-Tv.IT",
@@ -9335,9 +9335,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-11T13:55:36.016Z"
     },
     {
       "id": "LRTLituanica.lt",
