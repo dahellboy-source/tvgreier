@@ -1472,7 +1472,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -1531,7 +1531,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.bomcine.com/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T00:33:22.541Z"
     },
@@ -2124,7 +2124,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://squirreltv.es/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T00:33:22.541Z"
     },
@@ -3249,9 +3249,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-10T17:42:37.656Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
     {
       "id": "gnomitv.gr",
@@ -3364,9 +3364,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-11T05:14:41.441Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
     {
       "id": "lychnostv.gr",
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-10T14:07:39.579Z"
     },
@@ -4683,9 +4683,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.111tv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-10T20:07:05.931Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
     {
       "id": "12TVParma.it",
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-11T00:33:22.541Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-10T22:34:06.229Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -9306,9 +9306,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-10T20:07:05.931Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
     {
       "id": "DelfiTV.lt",
@@ -9335,7 +9335,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
