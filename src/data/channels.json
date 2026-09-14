@@ -961,7 +961,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-09T10:01:24.390Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-12T20:43:09.370Z"
     },
@@ -3467,7 +3467,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.onetv.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-25T23:43:58.324Z"
     },
@@ -3524,7 +3524,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-09T10:01:24.390Z"
     },
@@ -8910,7 +8910,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.udinesetv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-24T20:42:18.055Z"
     },
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-07T22:13:56.388Z"
     },
