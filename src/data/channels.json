@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
@@ -4814,9 +4814,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-13T23:41:02.435Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-14T01:43:18.419Z"
     },
     {
       "id": "AntennaTreNordest.it",
@@ -10539,7 +10539,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://muz-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-02T01:19:31.221Z"
     },
