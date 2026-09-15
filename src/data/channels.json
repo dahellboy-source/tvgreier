@@ -1962,7 +1962,7 @@
       "platform": "YouTube",
       "quality": "auto",
       "officialUrl": "https://ib3.org/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3364,7 +3364,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-11T09:50:42.911Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-15T01:00:28.692Z"
     },
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-12T22:39:14.292Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-15T19:18:00.634Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -5034,9 +5034,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://calabriauno.news/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-13T14:23:23.989Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-15T19:18:00.634Z"
     },
     {
       "id": "CameradeiDeputati.it",
@@ -5769,9 +5769,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.go-tv.org/it/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-21T12:48:23.159Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-15T19:18:00.634Z"
     },
     {
       "id": "GoldTV.it",
@@ -6233,7 +6233,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.medjugorjeitaliatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-25T06:05:01.062Z"
     },
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-15T11:40:16.676Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-15T19:18:00.634Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -9081,9 +9081,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-08-08T08:04:43.862Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-15T19:18:00.634Z"
     },
     {
       "id": "VB33.IT",
@@ -9450,7 +9450,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://jurmala.tv/tiesraide/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-02T21:17:45.549Z"
     },
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-02T21:17:45.549Z"
     },
