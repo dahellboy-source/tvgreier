@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-20T01:40:05.465Z"
     },
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-20T07:03:15.104Z"
     },
@@ -5450,9 +5450,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-19T23:39:29.180Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-20T12:18:51.276Z"
     },
     {
       "id": "Entella-Tv.IT",
@@ -5596,9 +5596,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.fanotv.it/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-19T23:39:29.180Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-20T12:18:51.276Z"
     },
     {
       "id": "Fascino-Tv.IT",
@@ -6539,9 +6539,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.partenope.tv/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-20T07:03:15.104Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-20T12:18:51.276Z"
     },
     {
       "id": "PeerTV.it",
@@ -7796,9 +7796,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-19T17:25:37.943Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-20T12:18:51.276Z"
     },
     {
       "id": "Tele-Cupole.IT",
@@ -8953,7 +8953,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-19T21:43:18.022Z"
     },
