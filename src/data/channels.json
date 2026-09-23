@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-20T01:40:05.465Z"
     },
@@ -4843,7 +4843,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lasiciliaweb.it/live-antennasicilia/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-21T07:15:48.595Z"
     },
@@ -5537,7 +5537,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.radioetnaespresso.com/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-08T17:48:22.714Z"
     },
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-22T11:06:12.507Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-23T00:28:19.852Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
