@@ -830,9 +830,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-26T00:53:35.782Z"
     },
     {
       "id": "TeleTicino.ch",
@@ -3191,7 +3191,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-06T20:41:10.734Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-25T15:14:21.746Z"
     },
@@ -3581,7 +3581,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-17T18:21:33.226Z"
     },
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-25T19:20:38.756Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-26T00:53:35.782Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -5450,7 +5450,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-25T19:20:38.756Z"
     },
@@ -5596,7 +5596,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.fanotv.it/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-25T19:20:38.756Z"
     },
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-25T10:03:26.433Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-26T00:53:35.782Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -6539,7 +6539,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.partenope.tv/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-25T19:20:38.756Z"
     },
@@ -6910,7 +6910,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-25T07:06:36.932Z"
     },
