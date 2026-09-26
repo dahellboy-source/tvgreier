@@ -830,7 +830,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-26T05:55:54.246Z"
     },
@@ -3176,7 +3176,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://www.ertsports.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-22T04:07:44.892Z"
     },
@@ -3249,7 +3249,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-25T10:03:26.433Z"
     },
@@ -3292,7 +3292,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-17T14:12:04.918Z"
     },
@@ -3364,7 +3364,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-25T19:20:38.756Z"
     },
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-26T05:55:54.246Z"
     },
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-26T00:53:35.782Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-26T10:56:54.053Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-25T22:33:11.410Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-26T10:56:54.053Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -6539,9 +6539,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.partenope.tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-25T19:20:38.756Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-26T10:56:54.053Z"
     },
     {
       "id": "PeerTV.it",
@@ -6910,9 +6910,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-09-26T05:55:54.246Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-09-26T10:56:54.053Z"
     },
     {
       "id": "Radio-Roma.IT",
@@ -7316,7 +7316,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -8363,7 +8363,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-lombardia/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-05T17:19:43.347Z"
     },
@@ -8378,7 +8378,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.telecity.it/canali/telecity-piemonte/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-17T21:32:47.821Z"
     },
@@ -8953,9 +8953,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-25T00:06:22.068Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-26T10:56:54.053Z"
     },
     {
       "id": "Tv-Prato.IT",
@@ -9264,7 +9264,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-18T11:50:01.271Z"
     },
