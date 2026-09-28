@@ -830,7 +830,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-27T13:20:53.361Z"
     },
@@ -2854,7 +2854,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://1tv.ge/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T08:23:20.016Z"
     },
@@ -2869,7 +2869,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://rustavi2.ge/en/contact",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T08:23:20.016Z"
     },
@@ -3249,9 +3249,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-26T21:25:09.283Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-28T22:19:56.333Z"
     },
     {
       "id": "gnomitv.gr",
@@ -5034,7 +5034,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://calabriauno.news/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-28T16:51:49.956Z"
     },
@@ -6277,9 +6277,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://motori.tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-25T15:14:21.746Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-28T22:19:56.333Z"
     },
     {
       "id": "News24-City.IT",
@@ -6335,7 +6335,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-28T08:20:06.471Z"
     },
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-28T08:20:06.471Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-28T22:19:56.333Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -8723,7 +8723,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.teleuniverso.it/diretta-streaming/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-19T04:33:26.496Z"
     },
@@ -8953,9 +8953,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-26T23:47:16.683Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-09-28T22:19:56.333Z"
     },
     {
       "id": "Tv-Prato.IT",
@@ -9949,7 +9949,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://4fun.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-10T12:00:09.144Z"
     },
@@ -10434,7 +10434,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.karusel-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-01T15:36:40.852Z"
     },
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-07T22:13:56.388Z"
     },
