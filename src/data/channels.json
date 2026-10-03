@@ -830,7 +830,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-03T07:42:39.713Z"
     },
@@ -2987,9 +2987,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.alphatv.gr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-27T23:22:43.526Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-03T19:33:43.885Z"
     },
     {
       "id": "ANT1.gr",
@@ -3249,9 +3249,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-03T01:55:49.048Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-03T19:33:43.885Z"
     },
     {
       "id": "gnomitv.gr",
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-03T07:42:39.713Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-03T19:33:43.885Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-07T22:13:56.388Z"
     },
