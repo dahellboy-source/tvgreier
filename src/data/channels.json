@@ -3364,7 +3364,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-05T18:48:52.401Z"
     },
@@ -3655,7 +3655,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://trttv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-28T01:54:21.880Z"
     },
@@ -5034,7 +5034,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://calabriauno.news/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-06T00:25:19.767Z"
     },
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-06T00:25:19.767Z"
     },
