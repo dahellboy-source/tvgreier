@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-01T21:59:20.519Z"
     },
@@ -6350,7 +6350,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-12T08:09:22.460Z"
     },
@@ -8222,7 +8222,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T07:34:42.198Z"
     },
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-07T22:13:56.388Z"
     },
