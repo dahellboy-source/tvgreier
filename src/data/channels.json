@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-15T23:53:12.298Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-16T08:27:31.198Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-15T21:40:21.710Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-16T08:27:31.198Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -10434,7 +10434,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.karusel-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-01T15:36:40.852Z"
     },
@@ -10903,7 +10903,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://yk24.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-11T21:23:36.622Z"
     },
