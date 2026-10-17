@@ -1137,7 +1137,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://deluxemusic.de/kontakt/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-15T11:40:16.676Z"
     },
@@ -1151,7 +1151,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-17T05:06:30.047Z"
     },
@@ -1180,7 +1180,7 @@
       "platform": "YouTube",
       "quality": "auto",
       "officialUrl": "https://de.euronews.com/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3220,7 +3220,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T17:54:41.165Z"
     },
@@ -3249,9 +3249,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-17T18:45:09.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-17T21:03:15.323Z"
     },
     {
       "id": "gnomitv.gr",
@@ -3452,9 +3452,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-17T18:45:09.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-17T21:03:15.323Z"
     },
     {
       "id": "OneChannel.gr",
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-17T18:45:09.280Z"
     },
@@ -4887,7 +4887,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-14T21:35:19.469Z"
     },
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-17T13:03:46.801Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-17T21:03:15.323Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -11429,7 +11429,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://tva.ua/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-12T14:02:29.519Z"
     },
