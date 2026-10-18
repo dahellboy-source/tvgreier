@@ -95,7 +95,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.cna.al/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-22T22:05:00.320Z"
     },
@@ -154,7 +154,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.oranews.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-15T11:40:16.676Z"
     },
@@ -657,7 +657,7 @@
       "platform": "YouTube",
       "quality": "auto",
       "officialUrl": "https://euronewsbulgaria.com/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3117,7 +3117,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-17T18:45:09.280Z"
     },
@@ -3378,7 +3378,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-13T14:51:39.158Z"
     },
@@ -3890,9 +3890,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://tvjadran.hr/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-05T12:01:24.775Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-18T21:41:23.579Z"
     },
     {
       "id": "TVNova.hr",
@@ -4887,7 +4887,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-18T17:00:05.383Z"
     },
