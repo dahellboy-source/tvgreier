@@ -214,7 +214,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://tropoja.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-16T18:43:42.266Z"
     },
@@ -465,7 +465,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://rtvbn.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-03T23:54:30.428Z"
     },
@@ -480,7 +480,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://rtv-hb.com/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-14T14:14:22.800Z"
     },
@@ -494,9 +494,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-10T02:26:11.061Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-20T07:29:49.065Z"
     },
     {
       "id": "SevdahTV.ba",
@@ -1137,7 +1137,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://deluxemusic.de/kontakt/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-15T11:40:16.676Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-19T23:38:00.593Z"
     },
@@ -3741,7 +3741,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://cmc.com.hr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-24T13:07:26.130Z"
     },
@@ -5206,7 +5206,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-03T10:50:27.360Z"
     },
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-20T02:06:22.457Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-20T07:29:49.065Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -8665,7 +8665,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://teleromagna.it/it/live/teleromagna",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T07:47:11.707Z"
     },
@@ -8679,7 +8679,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T07:47:11.707Z"
     },
@@ -8953,9 +8953,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-02T14:06:12.086Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-20T07:29:49.065Z"
     },
     {
       "id": "Tv-Prato.IT",
@@ -9349,7 +9349,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
