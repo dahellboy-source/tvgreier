@@ -139,7 +139,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://balkanweb.com/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-04T15:14:26.714Z"
     },
@@ -3117,7 +3117,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-17T18:45:09.280Z"
     },
@@ -3378,9 +3378,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-18T23:41:48.705Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-21T18:08:31.839Z"
     },
     {
       "id": "MakTV.gr",
@@ -3712,9 +3712,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-21T07:33:22.213Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-21T18:08:31.839Z"
     },
     {
       "id": "AlJazeeraBalkans.ba",
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-21T07:33:22.213Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-10-21T18:08:31.839Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -7288,9 +7288,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-21T07:33:22.213Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-21T18:08:31.839Z"
     },
     {
       "id": "RTI-Calabria.IT",
@@ -9771,7 +9771,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.omroepflevoland.nl/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-07T22:13:56.388Z"
     },
@@ -11137,7 +11137,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trt1.com.tr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-15T23:53:12.298Z"
     },
