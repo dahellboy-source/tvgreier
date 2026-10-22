@@ -3698,7 +3698,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-22T00:14:44.280Z"
     },
@@ -4120,9 +4120,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-22T00:14:44.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-22T10:07:48.395Z"
     },
     {
       "id": "J-szs-gi-T-rs-gi-TV.HU",
@@ -4149,9 +4149,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://kanizsatv.hu/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-22T00:14:44.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-22T10:07:48.395Z"
     },
     {
       "id": "KaposTV.hu",
@@ -5206,7 +5206,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-03T10:50:27.360Z"
     },
@@ -5987,9 +5987,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.lanuova.net/la-nuova-tv/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-21T13:14:16.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-22T10:07:48.395Z"
     },
     {
       "id": "La-Tenda-Tv.IT",
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-22T00:14:44.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-22T10:07:48.395Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -6910,9 +6910,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-22T00:14:44.280Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-10-22T10:07:48.395Z"
     },
     {
       "id": "Radio-Roma.IT",
