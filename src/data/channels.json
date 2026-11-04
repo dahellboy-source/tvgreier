@@ -494,7 +494,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "sd",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-26T11:16:00.192Z"
     },
@@ -730,7 +730,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-26T21:48:17.266Z"
     },
@@ -744,7 +744,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-03T01:21:29.967Z"
     },
@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-03T21:47:55.803Z"
     },
@@ -6335,7 +6335,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-01T13:52:12.738Z"
     },
@@ -10434,7 +10434,7 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://www.karusel-tv.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-03T21:47:55.803Z"
     },
@@ -10539,9 +10539,9 @@
       "platform": "HLS",
       "quality": "sd",
       "officialUrl": "https://muz-tv.ru/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-11-03T21:47:55.803Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-04T08:09:37.604Z"
     },
     {
       "id": "NebesaTV7.ru",
