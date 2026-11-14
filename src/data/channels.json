@@ -730,7 +730,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-11T00:48:39.012Z"
     },
@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-12T23:54:26.201Z"
     },
@@ -1151,7 +1151,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-24T17:15:51.650Z"
     },
@@ -2854,7 +2854,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://1tv.ge/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T08:23:20.016Z"
     },
@@ -2869,7 +2869,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://rustavi2.ge/en/contact",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T08:23:20.016Z"
     },
@@ -2899,7 +2899,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.imedi.ge/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-17T08:23:20.016Z"
     },
@@ -4712,9 +4712,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-10-20T23:40:24.952Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-14T19:27:11.193Z"
     },
     {
       "id": "ABChannel.it",
@@ -5077,7 +5077,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-23T20:58:11.422Z"
     },
