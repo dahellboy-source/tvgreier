@@ -730,7 +730,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-11T00:48:39.012Z"
     },
@@ -744,9 +744,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-11-14T23:16:57.067Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "Belarus24.by",
@@ -773,9 +773,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-11-12T23:54:26.201Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "Belarus5.by",
@@ -3117,7 +3117,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-14T14:30:39.675Z"
     },
@@ -3220,7 +3220,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-08-14T17:54:41.165Z"
     },
@@ -3712,7 +3712,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-15T09:59:55.349Z"
     },
@@ -4814,9 +4814,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-14T01:43:18.419Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "AntennaTreNordest.it",
@@ -5321,9 +5321,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "Discovery.Channel.it",
@@ -5726,9 +5726,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://diretta.giovannipaolotv.it/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-09T20:34:05.814Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "Globo-Tv.IT",
@@ -6262,9 +6262,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.minformo.tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-09-10T09:53:20.442Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "Motori-Tv.IT",
@@ -6350,7 +6350,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-15T09:59:55.349Z"
     },
@@ -6668,9 +6668,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.promovideotv.com/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-10-10T08:49:55.077Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
     },
     {
       "id": "QVC.it",
@@ -10568,7 +10568,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://vestinn.ru/online/nn24/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-24T19:35:11.572Z"
     },
