@@ -730,7 +730,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-11T00:48:39.012Z"
     },
@@ -744,9 +744,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-11-15T21:34:03.942Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-16T18:49:12.909Z"
     },
     {
       "id": "Belarus24.by",
@@ -773,7 +773,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-15T21:34:03.942Z"
     },
@@ -1151,9 +1151,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-14T23:16:57.067Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-16T18:49:12.909Z"
     },
     {
       "id": "DeLuxeMusicRap.de",
@@ -4887,9 +4887,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-14T14:30:39.675Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-16T18:49:12.909Z"
     },
     {
       "id": "Arte-Network-Orler.IT",
@@ -5450,7 +5450,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-28T16:51:49.956Z"
     },
@@ -5596,7 +5596,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.fanotv.it/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-28T16:51:49.956Z"
     },
@@ -6262,9 +6262,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.minformo.tv/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-15T16:58:07.255Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-16T18:49:12.909Z"
     },
     {
       "id": "Motori-Tv.IT",
@@ -6335,9 +6335,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-16T08:22:31.251Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-16T18:49:12.909Z"
     },
     {
       "id": "Nuova-Tv-2.IT",
@@ -6350,7 +6350,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-16T08:22:31.251Z"
     },
@@ -6539,7 +6539,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.partenope.tv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-12T18:38:55.025Z"
     },
@@ -8953,7 +8953,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-20T12:55:31.693Z"
     },
@@ -8996,9 +8996,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-15T09:59:55.349Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-16T18:49:12.909Z"
     },
     {
       "id": "Tvr-Xenon.IT",
@@ -11197,7 +11197,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trtcocuk.net.tr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-12T23:54:26.201Z"
     },
