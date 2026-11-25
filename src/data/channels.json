@@ -730,9 +730,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-24T20:56:12.267Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "Belarus2.by",
@@ -744,9 +744,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 2,
-      "availability": "offline",
-      "availabilityCheckedAt": "2026-11-24T20:56:12.267Z"
+      "healthFailures": 0,
+      "availability": "online",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "Belarus24.by",
@@ -1107,7 +1107,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.televizeutv.cz/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-26T17:28:01.911Z"
     },
@@ -3117,7 +3117,7 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "auto",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-21T22:09:02.189Z"
     },
@@ -3452,7 +3452,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.neatv.gr/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-24T20:56:12.267Z"
     },
@@ -5711,7 +5711,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://giornaleradio.fm/canali-tv/giornaleradio-tv",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-28T06:48:46.408Z"
     },
@@ -6335,7 +6335,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-20T21:05:50.653Z"
     },
@@ -6350,9 +6350,9 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://nuovatv.net/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-11-24T10:51:17.247Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "Nuova-TV-Nazionale.IT",
@@ -6610,9 +6610,9 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-11-15T21:34:03.942Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "PrimaFREE.IT",
@@ -10449,7 +10449,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://katun24.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10658,9 +10658,9 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://russia.tv/",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "Russia24.ru",
@@ -10672,9 +10672,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "sd",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "RussiaK.ru",
@@ -10686,9 +10686,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "sd",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "RTRPlaneta.ru",
@@ -10700,9 +10700,9 @@
       "format": "external",
       "platform": "Ekstern kilde",
       "quality": "sd",
-      "healthFailures": 1,
-      "availability": "online",
-      "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
+      "healthFailures": 2,
+      "availability": "offline",
+      "availabilityCheckedAt": "2026-11-25T04:00:03.689Z"
     },
     {
       "id": "Samara24.ru",
@@ -10814,7 +10814,7 @@
       "platform": "Ekstern kilde",
       "quality": "auto",
       "officialUrl": "https://smotrim.ru/live/63338",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -10903,7 +10903,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://yk24.ru/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-10-17T05:06:30.047Z"
     },
@@ -10947,7 +10947,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.di.se/ditv/",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-03T10:50:27.360Z"
     },
@@ -10961,7 +10961,7 @@
       "format": "hls",
       "platform": "HLS",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-09-03T10:50:27.360Z"
     },
@@ -10975,7 +10975,7 @@
       "format": "external",
       "platform": "YouTube",
       "quality": "auto",
-      "healthFailures": 0,
+      "healthFailures": 1,
       "availability": "online",
       "availabilityCheckedAt": "2026-07-18T00:02:00.903Z"
     },
@@ -11137,7 +11137,7 @@
       "platform": "HLS",
       "quality": "auto",
       "officialUrl": "https://www.trt1.com.tr/",
-      "healthFailures": 1,
+      "healthFailures": 0,
       "availability": "online",
       "availabilityCheckedAt": "2026-11-06T02:56:53.893Z"
     },
